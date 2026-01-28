@@ -1,0 +1,10 @@
+pandas
+numpy
+pillow
+scikit-learn
+clean-text[gpl]
+kaggle
+tqdm
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
